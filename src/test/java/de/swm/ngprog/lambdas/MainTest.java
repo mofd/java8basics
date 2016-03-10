@@ -1,4 +1,5 @@
-package np;
+package de.swm.ngprog.lambdas;
+
 
 /**
  * TODO (KS) Dokumentieren.
@@ -6,5 +7,6 @@ package np;
  * @author steuer.konstantin <br>
  * copyright (C) 2016, SWM Services GmbH
  */
-public class Main {
+public class MainTest {
+
 }
